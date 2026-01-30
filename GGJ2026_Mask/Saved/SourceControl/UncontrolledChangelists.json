@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/Defaultskin.uasset",
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/MyRiggedArms2.uasset",
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/young_lightskinned_male_diffuse.uasset",
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/Eye_brown.uasset",
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/MyRiggedArms2_PhysicsAsset.uasset",
+				"C:/Users/I000356/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Assets/MyRiggedArms2_Skeleton.uasset"
+			]
+		}
+	]
+}
