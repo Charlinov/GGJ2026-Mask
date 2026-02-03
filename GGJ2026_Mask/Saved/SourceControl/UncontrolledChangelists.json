@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/GGJ2026-Mask/GGJ2026_Mask/Content/LevelSequences/LS_MonsterCreature_Furnace.uasset",
+				"E:/Github/GGJ2026-Mask/GGJ2026_Mask/Content/Maps/LVL_Main.umap",
 				"C:/Users/charl/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Maps/LVL_Main.umap",
 				"C:/Users/charl/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/Blueprint/BP_InteractPoint_Hammer.uasset",
 				"C:/Users/charl/Documents/GitHub/GGJ2026-Mask/GGJ2026_Mask/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
